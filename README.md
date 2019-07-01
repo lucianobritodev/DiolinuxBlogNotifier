@@ -1,7 +1,7 @@
 # DiolinuxBlogNotifier
 Notificador de Posts do Blog Diolinux
 
-![screenshot](https://github.com/LucianoAparecidoBritoGuedes/Screenshot\ from\ 2019-07-01 02-18-21.png)
+![screenshot]('https://github.com/LucianoAparecidoBritoGuedes/Screenshot from 2019-07-01 02-18-21.png')
 
 ## Description
 
