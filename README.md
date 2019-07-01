@@ -1,6 +1,7 @@
 # DiolinuxBlogNotifier
 Notificador de Posts do Blog Diolinux
 
+[![screenshot](Screenshot from 2019-07-01 02-18-21.png)
 
 ## Description
 
