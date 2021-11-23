@@ -10,17 +10,18 @@ DiolinuxBlogNotifier é um script desenvolvido com o objetivo de emitir notifica
 
 ## Contributors
 
-[Luciano Brito](https://github.com/LucianoAparecidoBritoGuedes/)
+[Luciano Brito](https://github.com/lucianobritodev)
 
 Brasileiro, casado, nascido em 1991, apaixonado por tecnologias. Formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) em 2019.
 
 
 ## Contacts
 
-- [LinkeIn](https://www.linkedin.com/in/luciano-brito-76379374/)
+- [LinkeIn](https://www.linkedin.com/in/luciano-brito-dev)
 - [Gmail](lucianobrito.dev@gmail.com)
+- [Instagram](https://www.instagram.com/lucianobrito.dev)
 
 
 ## Donates
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclic&hosted_button_id=UTMFZUHX6EUGE)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=SX3L4N89M8ZRW)
